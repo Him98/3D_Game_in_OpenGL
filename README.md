@@ -4,7 +4,7 @@ Graphics Assignment-2
 This is a slightly modified version of Legend of Zelda game made in OpenGL 3. Rocks are brown in color. Bomb appears black in color. 
 
 Controls
--------
+--------
 
 - left arrow key to rotate the boat left.
 - right arrow key to rotate the ball right.
